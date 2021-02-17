@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../learn-js-core/.idea/learn-js-core.iml" filepath="$PROJECT_DIR$/../learn-js-core/.idea/learn-js-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../learn-react-hooks/.idea/learn-react-hooks.iml" filepath="$PROJECT_DIR$/../learn-react-hooks/.idea/learn-react-hooks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/svg-buttons.iml" filepath="$PROJECT_DIR$/.idea/svg-buttons.iml" />
+    </modules>
+  </component>
+</project>
