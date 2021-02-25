@@ -25,6 +25,7 @@ const Button = () => {
 			.replace(/\.[0-9]+\./g, '.');	
 		
 		setTerm(value);
+		
 	};
 
 	const evaluateValue = (currentValue) => {
